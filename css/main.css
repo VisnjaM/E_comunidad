@@ -1,0 +1,128 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+.fondo-verde{
+	background-color: green;
+}
+header img {
+	height: 80px;
+	width: 80px;
+}
+ header ul{
+	list-style: none;
+	padding-right: 15%;
+	margin-top: 25px;
+}
+header li {
+	display: inline-block;
+	margin-right: 10px;
+	padding-left: 10px;
+}
+header a {
+	color: #A89E9E;
+	text-decoration: none;
+	border-right: 3px solid #A89E9E;
+	padding-right: 45px;
+}
+.menu1{
+	border:none;
+}
+/*aquí emmpieza la foto de la semilla*/
+.banner{
+	background-image:url(../img/semilla.jpg);
+	background-repeat: no-repeat;
+	padding-top:890px;
+	background-position: center;
+	background-size: 2110px 895px;
+}
+
+.fondogris {
+	background-color: #F0E9E9;
+
+}
+.p{
+	color: #A89E9E;
+	text-align: center;
+	width: 1220px;
+	height: 200px;
+	margin-left: 400px;
+	margin-top: 90px;
+}
+/*aqui empieza la mision y vision*/
+.mision {
+ padding-top: 50px;
+}
+.mision h3{
+	padding: 20px;
+	font-size: 30px;
+}
+.mision p {
+	color: #A89E9E;
+	text-align: center;
+	width: 800px;
+	height: 200px;
+	margin-left: 70px;
+}
+/*aqui empieza la metodologia*/
+.metod {
+	background-image: url(../img/metodo.JPG);
+	padding-top: 20px;
+	min-height: 400px;
+	width: 50%;
+	background-size: cover;
+}
+
+.fondo{
+	background-image: url(../img/fondo.jpg);
+	height: 400px;
+
+}
+.fondo  h3  {
+	margin-top: 50px;
+	color: white;
+
+}
+.fondo  p  {
+	margin-top: 50px;
+	color: white;
+}
+/*aqui empieza el texto de servicios*/
+.servicios h2 {
+	color: #A89E9E;
+	text-align: center;
+	padding: 30px;
+}
+.servicios h4{
+	color: #A89E9E;
+	text-align: center;
+	padding: 10px;
+}
+/*aqui empiezan los servicios varios */
+
+.servicios img {
+	margin-top: 100px;
+}
+
+.servicios h3{
+	padding:-10px;
+	margin-top: 10px;
+	color:#587764;
+}
+.servicios h5 {
+	color: #A89E9E;
+	padding: 50px;
+}
+.servicios2 img {
+	margin-top: 100px;
+}
+.servicios2 h3{
+	padding:-10px;
+	margin-top: 10px;
+	color:#587764;
+}
+.servicios2 h5 {
+	color: #A89E9E;
+	padding: 50px;
+}
